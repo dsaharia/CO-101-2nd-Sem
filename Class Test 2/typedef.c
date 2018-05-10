@@ -1,3 +1,5 @@
+/*10. Write a simple strcuture with typedef to display your name and roll number. (marks: 1)
+*/
 #include <stdio.h>
 #include <string.h>
  
