@@ -1,3 +1,5 @@
+/*4. Write a simple program to differentiate call by value and call by references. (marks: 1)
+*/
 #include <stdio.h>
 
 void swapcov(int,int);
