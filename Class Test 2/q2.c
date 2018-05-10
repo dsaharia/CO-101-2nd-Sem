@@ -19,8 +19,8 @@ int main()
   printf("Not Removing\n");
   while(i<10)
   {
-    printf("Value is:%d\n",*ptr);
-    printf("Address is:%p\n",ptr);
+    printf("Value :%d\n",*ptr);
+    printf("Address :%p\n",ptr);
     i++;
     ptr++;
     
