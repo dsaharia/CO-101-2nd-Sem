@@ -8,10 +8,10 @@ int main()
     p=(int*)calloc(n, sizeof(int));  
     if(p == NULL)                     
     {
-        printf("memory cannot be allocated\n");
+        printf("cannot be allocated\n");
     }
     else{
-      printf("Elements of array are\n");
+      printf("Elements of array : \n");
       for(i=0;i<n;i++)
       {
         printf("%d\n",*(p+i));
