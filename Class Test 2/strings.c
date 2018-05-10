@@ -1,3 +1,5 @@
+/*5. Write a program to show any three string operations using strings.h. (marks: 1)
+*/
 #include <stdio.h>
 #include <string.h>
 
