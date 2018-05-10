@@ -27,7 +27,7 @@ int main()
   printf("First 6 characters are:%s\n",b1);
   fclose(fp3);
   FILE *fp4=fopen(".txt","w");
-  fprintf(fp4,"%s"," is a good boy.");
+  fprintf(fp4,"%s"," Hello World.");
   fclose(fp4);
   FILE *fp5=fopen(".txt","w");
   fputs("system programming language.", fp4);
